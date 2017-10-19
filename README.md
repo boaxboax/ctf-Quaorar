@@ -60,7 +60,7 @@ Entering directory: http://192.168.1.96/wordpress/ ----
 + http://192.168.1.96/wordpress/xmlrpc.php (CODE:200|SIZE:42)     
 
 
-Site based on wordpress !
+Site buided with wordpress !
 
 wpscan attack /
 
@@ -149,9 +149,8 @@ cat flag.txt
 
 The flag1 !!!
 
-So , lets continue :
+So , lets go on :
 
- cd var
 cd var
 www-data@Quaoar:/var$ ls
 ls

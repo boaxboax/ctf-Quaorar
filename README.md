@@ -60,7 +60,7 @@ Entering directory: http://192.168.1.96/wordpress/ ----
 + http://192.168.1.96/wordpress/xmlrpc.php (CODE:200|SIZE:42)     
 
 
-Site buided with wordpress !
+Site builded with wordpress !
 
 wpscan attack /
 

@@ -64,7 +64,7 @@ Site based on wordpress !
 
 wpscan attack /
 
-ruby wpscan.rb -u http://192.168.1.23/wordpress --enumerate u
+ruby wpscan.rb -u http://192.168.1.96/wordpress --enumerate u
 _______________________________________________________________
         __          _______   _____                  
         \ \        / /  __ \ / ____|                 
@@ -211,7 +211,7 @@ define('DB_PASSWORD', 'rootpassword!');
 give credentials for ssh connection (root / rootpassword! ) :
 
 
-ssh root@192.168.1.23
+ssh root@192.168.1.96
 The authenticity of host '192.168.1.96 (192.168.1.23)' can't be established.
 ECDSA key fingerprint is SHA256:+ODdJgfptUyyVzKI9wDm804SlXxzmb4/BiKsHCnHGeg.
 Are you sure you want to continue connecting (yes/no)? yes
